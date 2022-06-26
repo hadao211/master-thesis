@@ -1,0 +1,11 @@
+###### Require Python 3.8 ######
+
+###### Requirements without Version Specifiers ######
+numpy
+pandas
+
+###### Requirements with Version Specifiers ######
+matplotlib >= 3.5.0
+seaborn >= 0.11.2
+gym == 0.21.0
+torch == 1.10.0
